@@ -19,4 +19,11 @@ Some built-in shell commands include:
 * popd
 * help
 
+## Notes
+I plan on continually adding more functionality to turtle soon. Here is a todo-list:
+* Globbing (Wildcards)
+* Piping
+* Input/Output redirection
+* More built-ins
+
 
